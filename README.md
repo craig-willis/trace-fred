@@ -1,5 +1,8 @@
 # TRACE FRED Example
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11367438.svg)](https://doi.org/10.5281/zenodo.11367438)
+
+
 This example is intended for use with https://github.com/transparency-certified/trs-example/ to demonstrate implementation of a TRACE System using the [tro-utils](https://github.com/transparency-certified/tro-utils/) toolkit.
 
 This simple example is intended to demonstrate the following scenario:
